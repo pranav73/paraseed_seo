@@ -1,0 +1,28 @@
+name: 'Paraseed SEO'
+description: 'Provide Search Engine Optimization (SEO) Core features and settings.'
+type: module
+core: 8.x
+package: Paraseed
+dependencies:
+  - rdf
+  - metatag
+  - metatag_facebook
+  - metatag_google_plus
+  - metatag_hreflang
+  - metatag_mobile
+  - metatag_open_graph
+  - metatag_twitter_cards
+  - metatag_verification
+  - pathauto
+  - redirect
+  - redirect_404
+  - redirect_domain
+  - schema_metatag
+  - schema_article
+  - schema_item_list
+  - schema_web_page
+  - schema_web_site
+  - simple_sitemap
+  - yoast_seo
+  - script_manager
+version: 8.x-1.0
